@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: gray;
+    color: black;
+    padding: 15px;     
+    font-family: Arial, Helvetica, sans-serif;       
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer {
+    background-color: gray;
+    color: black;
+    padding: 15px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
